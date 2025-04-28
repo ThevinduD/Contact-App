@@ -1,11 +1,14 @@
-# How to setup and run //
+# Contact Book
 
-Download the zip and extract, // Or clone using url
+## Overview
 
-Open the terminal inside.
+This is a Local Contact Book, primarily built using React Router, following the official React Router documentation. I learned a lot about React Router through this project. Feel free to explore!
 
-Install the dependencies using 'npm install' or 'yarn install'
-
-Run the project using 'npm run dev' or 'yarn dev'
-
-Enjoy!!
+## Installation
+### Clone the Repository
+```bash
+git clone https://github.com/ThevinduD/Contact-App.git
+cd Contact-App
+npm install
+npm start
+```
